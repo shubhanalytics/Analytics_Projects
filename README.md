@@ -1,23 +1,15 @@
-# 📊 Analytics Portfolio – Shubhank Katarey
+# 📊 Analytics Portfolio
 
 Welcome to my academic and professional portfolio in **Data Science & Business Analytics**.  
 This repository showcases projects completed during my Post Graduate Program at Great Lakes (Feb 2021 – Jul 2022), covering diverse domains such as finance, marketing, retail, predictive modeling, and visualization.
 
 ---
 
-## 👨‍💻 About Me
-- Graduate of **Great Lakes Post Graduate Program in Data Science and Business Analytics**  
-- Skilled in **Python, R, SQL, Tableau, KNIME** and advanced statistical/machine learning techniques  
-- Passionate about turning raw data into actionable insights and business strategies  
-- Experienced in **EDA, predictive modeling, time-series forecasting, clustering, and visualization**
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Used
 - **Languages:** Python, R, SQL  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn  
 - **Tools:** Tableau, Power BI, KNIME, MySQL Workbench, Jupyter Notebook  
-- **Techniques:** Regression, Classification, Clustering, Time-Series Forecasting, Text Mining, ANOVA, PCA  
+- **Techniques:** Regression, Classification, Clustering, Time-Series Forecasting, Text Mining, ANOVA, PCA, etc. 
 
 ---
 
