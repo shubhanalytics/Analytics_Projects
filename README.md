@@ -136,7 +136,7 @@ Built predictive models to identify customers with high propensity to purchase a
 ## 📬 Contact
 - **Author:** Shubhank Katarey  
 - **Email:** shubhank.ky@gmail.com  
-- **Twitter:** https://x.com/shubhankkatarey  
+- **Twitter:** https://x.com/shubhanalytics  
 
 ---
 
